@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FirstTwoToOne
+  - SecondTwoToOne
+  - ThreeTwoToOne
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 16
+  - 15
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+  - 29
+  - 30
+  - 31
+  - 32
+  - 33
+  - 34
+  - 35
+  - 36
+  - 00
+  - 0
+  - FirstBy12
+  - Second12
+  - Third12
+  - 1to18
+  - 19to36
+  - Even
+  - Odd
+  - Red
+  - Black
+  - 1c
+  - 2c
+  - 3c
+  - 4c
+  - 5c
+  - 6c
+  - 7c
+  - 8c
+  - 9c
+  - 10c
+  - 11c
+  - 12c
+  - 13c
+  - 14c
+  - 15c
+  - 17c
+  - 16c
+  - 18c
+  - 19c
+  - 20c
+  - 21c
+  - 22c
+  - 1t
+  - 2t
+  - 3t
+  - 4t
+  - 5t
+  - 6t
+  - 7t
+  - 8t
+  - 9t
+  - 10t
+  - 11t
+  - 12t
+  - 13t
+  - 14t
+  - 15t
+  - 16t
+  - 17t
+  - 18t
+  - 19t
+  - 20t
+  - 21t
+  - 22T
+  - 23T
+  - 24T
+  - 25T
+  - 26T
+  - 27T
+  - 28T
+  - 29T
+  - 30T
+  - 31T
+  - 32T
+  - 33T
+  - 34T
+  - 35T
+  - 36T
+  - 37T
+  - 38T
+  - 39T
+  - 40T
+  - 41T
+  - 42T
+  - 43T
+  - 44T
+  - 45T
+  - 46T
+  - 47T
+  - 48T
+  - 49T
+  - 50T
+  - 51T
+  - 52T
+  - 53T
+  - 54T
+  - 55T
+  - 56T
+  - 57T
+  - 58T
+  - 59T
+  - 60T
+  - 61T
+  - 1By3
+  - 2By3
+  - 3By3
+  - 4By3
+  - 5By3
+  - 6By3
+  - 7By3
+  - 8By3
+  - 9By3
+  - 10By3
+  - 11By3
+  - 12By3
+  - 1By6
+  - 2By6
+  - 3By6
+  - 4By6
+  - 5By6
+  - 6By6
+  - 7By6
+  - 8By6
+  - 9By6
+  - 10By6
+  - 11By6
+  - 12By6
+  - Audio
+  - By31
+  - By32
+  - By33
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Chips
+    uniqueID: 3563164269
+    locked: 0
+  - name: Panel
+    uniqueID: 3582399429
+    locked: 0
